@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm Tomer, computer science student at Bar-Ilan University :)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TomerPardi)](https://github.com/anuraghazra/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TomerPardi&show_icons=true&theme=synthwave)
 
 <!--
 **TomerPardi/TomerPardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
