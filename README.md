@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Tomer, computer science student at Bar-Ilan University :)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TomerPardi)](https://github.com/anuraghazra/github-readme-stats)
 
